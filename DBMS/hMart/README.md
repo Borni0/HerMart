@@ -1,7 +1,6 @@
  1. Open the site
 
-
-http://localhost/hermart1/
+http://localhost/DBMS/hMart/index.php
 
 
  Demo Logins
